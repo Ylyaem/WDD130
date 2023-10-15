@@ -5,25 +5,25 @@ Fonts are separated by a & */
 
 :root {
   /* change the values below to your colors from your palette */
-  --primary-color: #e63946   ;
-  --secondary-color: #284b63 ;
-  --accent1-color: #ceb1be;
-  --accent2-color: #fbffb98e;
+  --primary-color: #4b644a   ;
+  --secondary-color: #bea57d ;
+  --accent1-color: #4b644a;
+  --accent2-color: #bea57d;
 
   /* change the values below to your chosen font(s) */
   --heading-font: "Lora";
   --paragraph-font: Lora,Assistant;
 
   /* these colors below should be chosen from among your palette colors above */
-  --headline-color-on-white: #396E94;  /* headlines on a white background */ 
-  --headline-color-on-color: #ceb1be; /* headlines on a colored background */ 
-  --paragraph-color-on-white: #396E94; /* paragraph text on a white background */ 
-  --paragraph-color-on-color: #ceb1be; /* paragraph text on a colored background */ 
-  --paragraph-background-color: #396E94  ;
-  --nav-link-color: #396E94;
-  --nav-background-color: #ceb1be;
+  --headline-color-on-white: #4b644a;  /* headlines on a white background */ 
+  --headline-color-on-color: #bea57d; /* headlines on a colored background */ 
+  --paragraph-color-on-white: #4b644a; /* paragraph text on a white background */ 
+  --paragraph-color-on-color: #bea57d; /* paragraph text on a colored background */ 
+  --paragraph-background-color: #171123  ;
+  --nav-link-color: #bea57d;
+  --nav-background-color: #171123;
   --nav-hover-link-color: white;
-  --nav-hover-background-color: #396E94;
+  --nav-hover-background-color: #4b644a;
 }
 
 
