@@ -1,0 +1,29 @@
+.education-word {
+    text-align: center;
+color: white;
+}
+.education-word:hover{color: black;}
+
+p {text-align: center;
+color: white;}
+h5 {    display: block;
+    margin-inline-start: 27.5%;
+    font-style:bold;
+    }
+
+#photo {
+    display: block;
+    width: 15%;
+    margin-left: auto;
+    margin-right: auto;
+    }
+
+.quote {text-align: center;
+margin-inline-start: 40%;
+margin-inline-end: 40%;
+color: white;}
+.reference {text-align: center;
+    margin-inline-start: 40%;
+    margin-inline-end: 40%;}
+
+html {background-color: palevioletred;}
